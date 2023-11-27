@@ -1,0 +1,505 @@
+<!doctype html>
+<html lang="en"  class="no-js no-svg">
+<head>
+<meta name="msvalidate.01" content="1646F3A02535A075F322B26B645ED121" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'ampl='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5DCK59');
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="robots" content="noodp"/>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+
+<link rel="icon" href="https://caportal.saginfotech.com/wp-content/themes/caportal/images/favicon.ico" type="image/x-icon" />
+<link href="https://caportal.saginfotech.com/wp-content/themes/caportal/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/css/slick.css" rel="stylesheet">
+<link href="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/css/slick-theme.css" rel="stylesheet">
+<link href="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/css/style.css" rel="stylesheet">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H9F445EDW4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H9F445EDW4');
+</script>
+
+<script>
+function init() {
+    // Clear forms here
+    document.getElementById("name").value = "";
+    document.getElementById("email").value = "";
+    document.getElementById("phone").value = "";
+    document.getElementById("comment").value = "";
+    document.getElementById("name-popup").value = "";
+    document.getElementById("email-popup").value = "";
+    document.getElementById("phone-popup").value = "";
+    document.getElementById("comment-popup").value = "";
+}
+window.onload = init;
+</script>
+<script>
+function blankform() {
+
+  document.getElementById("name-popup").value = "";
+    document.getElementById("email-popup").value = "";
+    document.getElementById("phone-popup").value = "";
+    document.getElementById("comment-popup").value = "";
+}
+</script>
+
+
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found &#8211; CA Portal Blog</title>
+
+		<!-- All in One SEO 4.4.1 - aioseo.com -->
+		<meta name="robots" content="noindex" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.4.1" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/caportal.saginfotech.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/caportal.saginfotech.com\/","name":"Home","description":"CA Portal gives the complete professional CA firm website at an affordable price, along with Templates for CA CS Law Firm that is perfect for online businesses.","url":"https:\/\/caportal.saginfotech.com\/"},"nextItem":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/#listItem"},{"@type":"ListItem","@id":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/","name":"Not Found","url":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/"},"previousItem":"https:\/\/caportal.saginfotech.com\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/caportal.saginfotech.com\/#organization","name":"CA Portal","url":"https:\/\/caportal.saginfotech.com\/","logo":{"@type":"ImageObject","url":"https:\/\/caportal.saginfotech.com\/wp-content\/uploads\/2019\/09\/logo.png","@id":"https:\/\/caportal.saginfotech.com\/#organizationLogo","width":266,"height":70},"image":{"@id":"https:\/\/caportal.saginfotech.com\/#organizationLogo"},"sameAs":["https:\/\/www.instagram.com\/saginfotech\/","https:\/\/in.linkedin.com\/company\/sag-infotech-pvt-ltd-"]},{"@type":"WebPage","@id":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/#webpage","url":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/caportal.saginfotech.com\/#website"},"breadcrumb":{"@id":"https:\/\/caportal.saginfotech.com\/caportal\/ca-template-83\/assets\/loader.gif\/#breadcrumblist"}},{"@type":"WebSite","@id":"https:\/\/caportal.saginfotech.com\/#website","url":"https:\/\/caportal.saginfotech.com\/","name":"CA Portal Blog","inLanguage":"en-US","publisher":{"@id":"https:\/\/caportal.saginfotech.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="CA Portal Blog &raquo; Feed" href="https://caportal.saginfotech.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CA Portal Blog &raquo; Comments Feed" href="https://caportal.saginfotech.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/caportal.saginfotech.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://caportal.saginfotech.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://caportal.saginfotech.com/wp-includes/css/classic-themes.min.css?ver=6.2.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ccw_main_css-css' href='https://caportal.saginfotech.com/wp-content/plugins/click-to-chat-for-whatsapp/prev/assets/css/mainstyles.css?ver=3.29.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://caportal.saginfotech.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dgd-scrollbox-plugin-core-css' href='https://caportal.saginfotech.com/wp-content/plugins/dreamgrow-scroll-triggered-box/css/style.css?ver=2.3' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='twentyseventeen-fonts-css' href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-style-css' href='https://caportal.saginfotech.com/wp-content/themes/caportal/style.css?ver=6.2.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyseventeen-ie8-css' href='https://caportal.saginfotech.com/wp-content/themes/caportal/assets/css/ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css' href='https://caportal.saginfotech.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://caportal.saginfotech.com/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.2.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='addtoany-css' href='https://caportal.saginfotech.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' src='https://caportal.saginfotech.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://caportal.saginfotech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' async src='https://caportal.saginfotech.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' id='dgd-scrollbox-plugin-js-extra'>
+/* <![CDATA[ */
+var $DGD = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"a97b434472","debug":"","permalink":"https:\/\/caportal.saginfotech.com\/blog\/new-ca-logo-by-icai\/","title":"ICAI Presents New Attractive CA Logo at Glopac Conference","thumbnail":"https:\/\/caportal.saginfotech.com\/wp-content\/uploads\/2023\/11\/new-ca-logo-by-icai.jpg","scripthost":"\/wp-content\/plugins\/dreamgrow-scroll-triggered-box\/","scrollboxes":[{"id":"dgd_scrollbox-6573-tab","parentid":"dgd_scrollbox-6573","trigger":{"action":"tab"},"height":"auto","width":"auto","vpos":"bottom","hpos":"right","theme":"none","jsCss":{"margin":"0","backgroundImageUrl":"","backgroundColor":"","boxShadow":"0px","borderColor":"#ffffff","borderWidth":"0px","borderRadius":""},"transition":{"effect":"none","from":"r","speed":"400"},"lightbox":0,"closeImageUrl":"","hide_mobile":"1","submit_auto_close":0,"delay_auto_close":0,"hide_submitted":0,"cookieLifetime":-1,"receiver_email":"1","thankyou":"You are subscribed. Thank You!","widget_enabled":"0"},{"trigger":{"action":"scroll","scroll":"20","delaytime":"0","element":""},"vpos":"bottom","hpos":"right","cookieLifetime":"-1","hide_mobile":"1","receiver_email":"1","thankyou":"You are subscribed. Thank You!","submit_auto_close":"5","hide_submitted":"1","delay_auto_close":"60","lightbox":{"color":"#ffffff","opacity":"0"},"theme":"none","height":"auto","width":"200","jsCss":{"padding":"0","margin":"0","backgroundColor":"","boxShadow":"0px","borderColor":"#ffffff","borderWidth":"0px","borderRadius":"0px","backgroundImageUrl":""},"closeImageUrl":"","transition":{"from":"r","effect":"none","speed":"400"},"tab":"1","social":{"facebook":"","twitter":"","google":"","pinterest":"","stumbleupon":"","linkedin":""},"id":"dgd_scrollbox-6573","mode":"stb","voff":0,"hoff":0,"tabid":"dgd_scrollbox-6573-tab"}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://caportal.saginfotech.com/wp-content/plugins/dreamgrow-scroll-triggered-box/js/script.js?ver=2.3' id='dgd-scrollbox-plugin-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://caportal.saginfotech.com/wp-content/themes/caportal/assets/js/html5.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://caportal.saginfotech.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://caportal.saginfotech.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://caportal.saginfotech.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.3" />
+<!-- There is no amphtml version available for this URL. --><style> html{display:none;} </style><script>   if (self == top) { document.documentElement.style.display = 'block'; } else { top.location = self.location; }</script>
+</head>
+<body class="error404 hfeed has-header-image has-sidebar colors-light">
+
+<!-- Popup Banner -->
+<!-- <div class="popup-slider" style="display:none;" id="popcls">
+  <div class="max1024">
+       <button type="button" class="close loading-popup"><span aria-hidden="true">&times;</span></button>
+       <div class=""><a href="#" data-target="#myModal" data-toggle="modal"><img src="https://caportal.saginfotech.com/wp-content/uploads/2021/06/pop-up.jpg" alt=""></a></div>
+    </div>
+</div> -->
+<!-- End Popup Banner -->
+
+
+<header class="header" id="header">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container"><a class="navbar-brand" href="https://caportal.saginfotech.com"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/images/logo.png" alt="logo" /></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      
+       <div class="menu-top-container"><ul id="menu-top" class="navbar-nav"><li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://caportal.saginfotech.com/about-us/">About Us</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-489"><a href="https://caportal.saginfotech.com/blog/">Blog</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-55"><a href="https://caportal.saginfotech.com/theme-categories/">Theme Categories</a>
+<ul class="sub-menu">
+	<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="https://caportal.saginfotech.com/ca-themes/">Theme For CA</a></li>
+	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="https://caportal.saginfotech.com/cs-themes/">Theme For CS</a></li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="https://caportal.saginfotech.com/lawyer-themes/">Theme for Lawyer</a></li>
+	<li id="menu-item-22806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22806"><a href="https://caportal.saginfotech.com/tax-consultant-themes/">Theme for Tax Consultant</a></li>
+</ul>
+</li>
+<li id="menu-item-3490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3490"><a href="https://caportal.saginfotech.com/faq/">FAQ&#8217;s</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://caportal.saginfotech.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a target="_blank" rel="noopener" href="https://blog.saginfotech.com">GST &#038; Tax Blog</a></li>
+</ul></div>     <a class="btn btn-popup" href="#" data-bs-toggle="modal" data-bs-target="#QuoteNow">Quote Now</a>
+      </div>
+    </div>
+  </nav>
+</header>
+ 
+
+<section class="notfound-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2>4<span>0</span>4</h2>
+        <p>
+          It looks like nothing was found at this location. Maybe try a search?        </p>
+        
+
+<form role="search" method="get" class="search-form" action="https://caportal.saginfotech.com/">
+	<label for="search-form-6564ccf585877">
+		<span class="screen-reader-text">Search for:</span>
+	</label>
+	<input type="search" id="search-form-6564ccf585877" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Search</span></button>
+</form>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<section class="blog-sec py-5">
+  <div class="container">
+    <div class="section-heading">
+      <h2>Choose Your Best Website Template</h2>
+    </div>
+    <div class="row">
+      
+            <div class="col-sm-4">
+        <div class="blog-box">             <img src="https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="New CA Logo By ICAI" decoding="async" loading="lazy" srcset="https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai.jpg 1200w, https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai-300x158.jpg 300w, https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai-1024x538.jpg 1024w, https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai-768x403.jpg 768w, https://caportal.saginfotech.com/wp-content/uploads/2023/11/new-ca-logo-by-icai-228x120.jpg 228w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />                      <div class="blog-text">
+            <h3>ICAI Presents New Attractive CA Logo at Glopac Conference</h3>
+            <a href="https://caportal.saginfotech.com/blog/new-ca-logo-by-icai/">Read More</a> </div>
+        </div>
+      </div>
+            <div class="col-sm-4">
+        <div class="blog-box">             <img src="https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Advanced ICITSS-Adv. Information Technology Test" decoding="async" loading="lazy" srcset="https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced.jpg 1200w, https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced-300x158.jpg 300w, https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced-1024x538.jpg 1024w, https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced-768x403.jpg 768w, https://caportal.saginfotech.com/wp-content/uploads/2020/10/icai-advanced-228x120.jpg 228w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />                      <div class="blog-text">
+            <h3>ICAI: Advanced ICITSS &#8211; Adv. Information Tech CBT Test</h3>
+            <a href="https://caportal.saginfotech.com/blog/icaiadvanced-icitss-information-technology-test-computer-based-mode/">Read More</a> </div>
+        </div>
+      </div>
+            <div class="col-sm-4">
+        <div class="blog-box">             <img src="https://caportal.saginfotech.com/wp-content/uploads/2019/01/top.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Top CA Firms" decoding="async" loading="lazy" srcset="https://caportal.saginfotech.com/wp-content/uploads/2019/01/top.jpg 1200w, https://caportal.saginfotech.com/wp-content/uploads/2019/01/top-300x158.jpg 300w, https://caportal.saginfotech.com/wp-content/uploads/2019/01/top-768x403.jpg 768w, https://caportal.saginfotech.com/wp-content/uploads/2019/01/top-1024x538.jpg 1024w, https://caportal.saginfotech.com/wp-content/uploads/2019/01/top-228x120.jpg 228w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />                      <div class="blog-text">
+            <h3>Top 11 CA Firms Became the Most Successful in India 2023</h3>
+            <a href="https://caportal.saginfotech.com/blog/top-11-ca-firms-in-india-2023/">Read More</a> </div>
+        </div>
+      </div>
+            
+          
+    
+       </div>
+  </div>
+</section>
+﻿
+
+
+
+
+
+<section class="call-to-action">
+  <div class="container">
+      <div class="coltoaction-box">
+        <div class="coltoaction-img"> <img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/calltoaction.png" alt=""> </div>
+        <div class="coltoaction-text">
+          <h3>Our Support team has your back</h3>
+          <p>Customer Support is available whenever you need it. Help with design? <br>
+            We’re here to help.</p>
+        </div>
+        <div class="coltoaction-btn"> <a class="btn" href="#"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/whatsapp-icon 1.png" alt="icon">Contact Us</a> 
+        <a class="btn yellow-btn" href="tel:917023472073"><i class="fa fa-phone"></i> +91-702 347 2073</a>
+        </div>
+      </div>
+  </div>
+</section>
+<footer class="footer whiteText">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-sm-6">
+        <h3>About</h3>
+        <p>CA Portal facilitates you to choose a theme among the available hundreds of custom themes for ca firm website.</p>
+        <ul class="footer-social">
+          <li><a href="https://www.facebook.com/SagInfotechPvtLtd/" target="_blank"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/facebook.webp" alt="icon"></a></li>
+          <li><a href="https://twitter.com/sagInfotech" target="_blank"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/x.webp" alt="icon"></a></li>
+          <li><a href="https://www.instagram.com/saginfotech/" target="_blank"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/insta.webp" alt="icon"></a></li>
+          <li><a href="https://www.linkedin.com/company/2357488/admin/" target="_blank"><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/linkedin.webp" alt="icon"></a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4 col-sm-6">
+        <h3>Quick Links</h3>
+        <ul class="footer-menu">
+          <div class="menu-bottom-1-container"><ul id="menu-bottom-1" class="foot-contact"><li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-63"><a rel="nofollow" href="https://caportal.saginfotech.com/">Home</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a rel="nofollow" href="https://caportal.saginfotech.com/about-us/">About Us</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a rel="nofollow" href="https://caportal.saginfotech.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-3482" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3482"><a rel="nofollow" href="https://caportal.saginfotech.com/blog/">Blog</a></li>
+</ul></div>        </ul>
+        <ul class="footer-menu">
+         <div class="menu-bottom-2-container"><ul id="menu-bottom-2" class="foot-contact"><li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a rel="nofollow" href="https://caportal.saginfotech.com/ca-themes/">Theme For CA</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a rel="nofollow" href="https://caportal.saginfotech.com/cs-themes/">Theme For CS</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a rel="nofollow" href="https://caportal.saginfotech.com/lawyer-themes/">Theme for Lawyer</a></li>
+<li id="menu-item-23004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23004"><a rel="nofollow" href="https://caportal.saginfotech.com/tax-consultant-themes/">Theme for Tax Consultant</a></li>
+</ul></div>        </ul>
+      </div>
+      <div class="col-lg-4 col-sm-6">
+        <h3>Contact Us</h3>
+        <p><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/footer-1.webp" alt="icon"> B-9, Second Floor, Mahalaxmi Nagar, Behind WTP South Block, Malviya Nagar, Jaipur - 302017 (Raj.)</p>
+        <p><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/footer-2.webp" alt="icon"> 0141-4072000 (60 Line)</p>
+        <p><img src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/images/footer-3.webp" alt="icon"> caportal@sagipl.com</p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <p>&copy; 2023 CA Portal | All rights reserved. Privacy Policy and Disclaimer</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<div class="modal fade login-popup" id="myOnlineModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="vertical-alignment-helper">
+    <div class="modal-dialog vertical-align-center">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">GST Software with CA Website</h4>
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+          </button>
+          <!--<h4 class="modal-title text-center" id="myModalLabel"></h4>-->
+        </div>
+        <div class="modal-body">
+          
+<div class="wpcf7 no-js" id="wpcf7-f18903-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/caportal/ca-template-83/assets/loader.gif" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="18903" />
+<input type="hidden" name="_wpcf7_version" value="5.7.7" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f18903-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="form-group">
+                <div class="col-md-12">
+                 <span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="your-name" /></span> 
+                
+                </div>
+                </div>
+                 <div class="form-group">
+                <div class="col-md-12">
+                  <span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="your-email" /></span> 
+                
+                </div>
+                </div>
+                 <div class="form-group">
+                <div class="col-md-12">
+              <span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel form-control" aria-invalid="false" placeholder="Phone" value="" type="tel" name="your-phone" /></span>
+                
+                </div>
+                </div>
+                <div class="form-group">
+                <div class="col-md-12">
+                <span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false" name="your-message">GST Software with CA Website</textarea></span>
+                
+                </div>
+                </div>
+                 <div class="form-group">
+                 <div class="col-md-12">
+                  <input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="Send" />
+                 </div>
+                </div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="214"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/js/jquery.min.js" type="text/javascript"></script>
+<script src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/js/bootstrap.min.js"></script> 
+<script src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/js/slick.min.js"></script> 
+<script src="https://caportal.saginfotech.com/wp-content/themes/caportal/new-design/js/custom.js"></script>
+<script id="rendered-js">
+$( ".priceplan" ).on( "click", "li", function() {
+  var pos = $(this).index()+2;
+  $(".pricet tr").find('td:not(:eq(0))').hide();
+  $('.pricet td:nth-child('+pos+')').css('display','table-cell');
+  $(".pricet tr").find('th:not(:eq(0))').hide();
+  $('.priceplan li').removeClass('active');
+  $(this).addClass('active');
+});
+
+// Initialize the media query
+  var mediaQuery = window.matchMedia('(min-width: 600px)');
+  
+  // Add a listen event
+  mediaQuery.addListener(doSomething);
+  
+  // Function to do something with the media query
+  function doSomething(mediaQuery) {    
+    if (mediaQuery.matches) {
+      $('.sep').attr('colspan',5);
+      $('.pricet td:nth-child(3)').css('display','table-cell');
+    } else {    
+      $('.sep').attr('colspan',2);
+    }
+  }
+  
+  // On load
+  doSomething(mediaQuery);
+
+</script>  
+ 
+<script>
+$( document ).ready(function() {
+    $( ".bg-purple" ).trigger( "click" );
+});
+</script>   
+
+
+
+
+  <!-- push notification popup js -->
+
+  <script>
+    var isPushEnabled = false;
+    var _siteKey = 'NA==';
+    const _subscribeUrl = 'https://pushnotification.sagbpm.com/notifications/subscribe/' + _siteKey;
+    const _unSubscribeUrl = 'https://pushnotification.sagbpm.com/notifications/unsubscribe/' + _siteKey;
+
+    var _siteCookieName = _siteKey.replace(/\s/g, '') + '_sag_push';
+    var _siteCookieNotNow = _siteKey.replace(/\s/g, '') + '_sag_push_NotNow';
+
+    const convertedVapidKey = urlBase64ToUint8Array('BLMRyQzw5AXWEkfGS9TB9wK9Fo3U2y_Dv6Mqz2aP67WkAV1scNHeHj20HuXn7jgu_Mpw_semL075ujJ25qmMtAU')
+
+    function urlBase64ToUint8Array(base64String) {
+      const padding = "=".repeat((4 - base64String.length % 4) % 4)
+
+      const base64 = (base64String + padding).replace(/\-/g, "+").replace(/_/g, "/")
+
+      const rawData = window.atob(base64)
+      const outputArray = new Uint8Array(rawData.length)
+
+      for (let i = 0; i < rawData.length; ++i) {
+        outputArray[i] = rawData.charCodeAt(i)
+      }
+      return outputArray
+    }
+
+    function setCookie4Second(cname, cvalue, exsec) {
+      const d = new Date();
+      d.setTime(d.getTime() + (exsec * 1000));
+      let expires = "expires=" + d.toUTCString();
+      document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+    function setCookie4Mints(cname, cvalue, exmint) {
+      setCookie4Second(cname, cvalue, (exmint * 60));
+    }
+
+    function setCookie4Hours(cname, cvalue, exhours) {
+      setCookie4Second(cname, cvalue, (exhours * 60 * 60));
+    }
+
+    function setCookie(cname, cvalue, exdays) {
+      setCookie4Second(cname, cvalue, (exdays * 24 * 60 * 60));
+    }
+
+    function getCookie(cname) {
+      let name = cname + "=";
+      let ca = document.cookie.split(';');
+      for (let i = 0; i < ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+
+    function handlePopup(displayType) {
+      //console.log('displayType',displayType);
+      document.querySelector('.custom-popup').style.display = displayType;
+    }
+
+    async function sendUnSubscriptionToServer() {
+      handlePopup('none');
+      let CookieValue = getCookie(_siteCookieName);
+      if (CookieValue !== "") {
+        let response = await fetch(_unSubscribeUrl, {
+          method: 'POST',
+          body: JSON.stringify({
+            subscriptionId: CookieValue
+          }),
+          headers: {
+            'Content-Type': 'application/json'
+          }
+        });
+      }
+
+      setCookie(_siteCookieName, '', 7);
+      return;
+    }
+
+    window.addEventListener('load', function() {
+      var pushButton = document.querySelector('.js-push-button-allow');
+      pushButton.addEventListener('click', function() {
+        subscribe();
+      });
+
+      var pushButtonDontAllow = document.querySelector('.js-push-button-dont-allow');
+      pushButtonDontAllow.addEventListener('click', function() {
+        handlePopup('none');
+        setCookie4Hours(_siteCookieNotNow, 1, 5);
+      });
+
+
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register("
